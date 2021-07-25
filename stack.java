@@ -19,3 +19,11 @@ public class stack {
 	}
 	
 }
+
+
+Stack created
+1pop:9
+2pop:8
+3pop:7
+4pop:6
+stack pop:5
